@@ -1,14 +1,14 @@
 {
-	"name": "react-webpack4-babel7",
+	"name": "personal-react-boilerplate",
 	"version": "1.0.0",
-	"description": "",
+	"description": "starting point for react projects",
 	"main": "index.js",
 	"scripts": {
 		"start": "webpack-dev-server --config ./webpack.config.js --mode development",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Jeremy Philipson <jeremyphilipson@gmail.com>",
 	"license": "ISC",
 	"husky": {
 		"hooks": {
