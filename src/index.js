@@ -1,10 +1,10 @@
 /* eslint-disable */
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-const app = document.getElementById('app');
-const title = 'My minimal React Webpack Babel app';
+const App = document.getElementById('app')
+const title = 'Drew Breeeeees'
 
-ReactDOM.render(<div>{title}</div>, app);
+ReactDOM.render(<div>{title}</div>, App)
 
-module.hot.accept();
+module.hot.accept()
