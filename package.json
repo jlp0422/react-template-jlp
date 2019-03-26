@@ -1,6 +1,6 @@
 {
-	"name": "personal-react-boilerplate",
-	"version": "1.0.0",
+	"name": "react-template-jlp",
+	"version": "1.0.01",
 	"description": "starting point for react projects",
 	"main": "index.js",
 	"scripts": {
